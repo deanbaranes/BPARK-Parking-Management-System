@@ -82,6 +82,6 @@ All database operations are handled via `mysqlConnection.java` using the `DBExec
 ## 👥 Contributors
 
 - **Dean Baranes** — Client UI, Terminal interface, Management module  
-- **Carmel Peretz** — Server logic, MySQL integration, OCSF communication  
+- **Shon Azulay** — Server logic, MySQL integration, OCSF communication  
 
 
